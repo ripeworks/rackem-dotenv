@@ -1,5 +1,23 @@
 {
+    "name": "rackem/dotenv",
+    "type": "library",
+    "description": "Environment variables in your Rack'em application via .env",
+    "keywords": ["rackem", "dotenv", ".env"],
+    "homepage": "https://github.com/ripeworks/rackem-dotenv",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mike Kruk",
+            "email": "mike@ripeworks.com",
+            "homepage": "http://ripeworks.com"
+        }
+    ],
     "require": {
         "rackem/rackem": "@stable"
+    },
+    "autoload": {
+        "psr-0": {
+            "Rackem": "lib"
+        }
     }
 }

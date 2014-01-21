@@ -3,7 +3,7 @@
         "This file locks the dependencies of your project to a known state",
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
     ],
-    "hash": "40777b88d2041495a0d0acc85c116e1e",
+    "hash": "2467649b0b334490dc7d83685059b138",
     "packages": [
         {
             "name": "rackem/rackem",
